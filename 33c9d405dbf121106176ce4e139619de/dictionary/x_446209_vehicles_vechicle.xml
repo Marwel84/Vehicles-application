@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="3c1b5485dbf121106176ce4e13961992" extends="task" label="vechicle" max_length="40" name="x_446209_vehicles_vechicle" type="collection"/>
+</database>
